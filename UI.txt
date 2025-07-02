@@ -1,0 +1,14 @@
+Hi! This repository contains all of my UI/UX design work created in Figma.
+Feel free to explore the projects through the links provided below:
+
+
+- ETIC OLYMPIADES :
+https://www.figma.com/design/k0HLg5GEoFEnvvL9hRTPHR/Olympiades?node-id=0-1&t=zmPWxl27kT2ee0iT-0
+- TEST.INI - MOOD TRACKER :
+https://www.figma.com/design/2BSTSy6nfBwI8tEBKF1BAe/TEST.INI?node-id=3-12
+- HACKTIC - S2EE :
+https://www.figma.com/design/ehEuSsrdCtxvFPjeIG7t9F/Made-by-team-UI-UX--design-?node-id=0-1&p=f&t=sqQW2RYHTivmbJRb-0
+- SingIt - CACE :
+https://www.figma.com/design/PeoSNVUcwKaEDDDPnRLQ14/sing-it?node-id=0-1&t=ZBshiuAdYJVXS7TS-1
+- ESI+ - TEO :
+https://www.figma.com/design/id22KhzipSgQPD0YtZrXVG/TEO?t=IdPW26mIPtwKza8t-0
